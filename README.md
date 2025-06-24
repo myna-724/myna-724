@@ -11,11 +11,9 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated Embedded Systems
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: C, Embedded C, Python (basics)
-- **Platforms**: Keil, MPLAB, STM32CubeIDE, Proteus, Arduino
-- **Microcontrollers**: 8051, PIC, ARM Cortex-M, STM32
-- **Communication Protocols**: UART, SPI, I2C, CAN
-- **Operating Systems**: FreeRTOS, bare-metal programming
+- **Languages**: C, Embedded C,IPC mechanism.
+- **Communication Protocols**: UART, SPI, I2C
+- **Operating Systems**: Ubuntu.
 
 ## 🚀 What I’m Currently Working On
 
@@ -25,10 +23,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated Embedded Systems
 
 ## 📫 Let's Connect!
 
-- 📧 Email: [your-email@example.com] *(replace this with your actual email if you'd like to share it)*
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile) *(add your LinkedIn link here)*
-- 🔗 Portfolio / Blog (optional): [yourwebsite.com]
-
+- 📧 Email: [mynavathi724@gmail.com] *(replace this with your actual email if you'd like to share it)*
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories, raise issues, or reach out for collaboration.
